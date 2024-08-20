@@ -1,4 +1,4 @@
-# Reimplementation of G-1966-5 by Marc Adrian)
+# Reimplementation of G-1966-5 by Marc Adrian
 
 Marc Adrian was an austrian artist mainly involved with the "New Tendencies" movement of the European Neo-Avantgarde. He experimented with graphics and experimental video work and in 1966 also wrote some of the first computer programs to generate concrete poetry with random choices of words, font etc.
 
